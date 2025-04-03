@@ -130,3 +130,7 @@
   docker build -t pentest-tools .
   docker run -d --name pentest-container pentest-tools
   ```
+
+## Remarque
+
+Les commandes et configurations de ce TP ont été générées avec l'aide de ChatGPT. Mais je les ai toutes testées manuellement et certaines ont été corrigées pour vérifier que ça fonctionne. Ce document est donc une version vérifiée et fonctionnelle du TP.
